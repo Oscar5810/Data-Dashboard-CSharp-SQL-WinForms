@@ -8,3 +8,13 @@ D:\RJ Code Advance\Source Code C#\2022\DataDashboardApp\DataDashboardApp\obj\Deb
 D:\RJ Code Advance\Source Code C#\2022\DataDashboardApp\DataDashboardApp\obj\Debug\DashboardApp.exe
 D:\RJ Code Advance\Source Code C#\2022\DataDashboardApp\DataDashboardApp\obj\Debug\DashboardApp.pdb
 D:\RJ Code Advance\Source Code C#\2022\DataDashboardApp\DataDashboardApp\obj\Debug\DashboardApp.Form1.resources
+C:\Users\ruben\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\Documents\GitHub\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\bin\Debug\DashboardApp.exe.config
+C:\Users\ruben\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\Documents\GitHub\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\bin\Debug\DashboardApp.exe
+C:\Users\ruben\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\Documents\GitHub\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\bin\Debug\DashboardApp.pdb
+C:\Users\ruben\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\Documents\GitHub\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\obj\Debug\DashboardApp.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\Documents\GitHub\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\obj\Debug\DashboardApp.Form1.resources
+C:\Users\ruben\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\Documents\GitHub\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\obj\Debug\DashboardApp.Properties.Resources.resources
+C:\Users\ruben\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\Documents\GitHub\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\obj\Debug\DashboardApp.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\Documents\GitHub\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\obj\Debug\DashboardApp.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\Documents\GitHub\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\obj\Debug\DashboardApp.exe
+C:\Users\ruben\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\Documents\GitHub\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\obj\Debug\DashboardApp.pdb

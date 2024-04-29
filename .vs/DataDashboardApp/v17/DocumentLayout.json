@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruben\\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\\Documents\\GitHub\\Data-Dashboard-CSharp-SQL-WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA05C6D3-F4B4-4600-ADDF-17574B5EC430}|DataDashboardApp\\DashboardApp.csproj|c:\\users\\ruben\\onedrive - universidad autonoma de ciudad juarez (uacj)\\documents\\github\\data-dashboard-csharp-sql-winforms\\datadashboardapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA05C6D3-F4B4-4600-ADDF-17574B5EC430}|DataDashboardApp\\DashboardApp.csproj|solutionrelative:datadashboardapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA05C6D3-F4B4-4600-ADDF-17574B5EC430}|DataDashboardApp\\DashboardApp.csproj|c:\\users\\ruben\\onedrive - universidad autonoma de ciudad juarez (uacj)\\documents\\github\\data-dashboard-csharp-sql-winforms\\datadashboardapp\\db\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA05C6D3-F4B4-4600-ADDF-17574B5EC430}|DataDashboardApp\\DashboardApp.csproj|solutionrelative:datadashboardapp\\db\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\\Documents\\GitHub\\Data-Dashboard-CSharp-SQL-WinForms\\DataDashboardApp\\Db\\DbConnection.cs",
+              "RelativeDocumentMoniker": "DataDashboardApp\\Db\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\\Documents\\GitHub\\Data-Dashboard-CSharp-SQL-WinForms\\DataDashboardApp\\Db\\DbConnection.cs",
+              "RelativeToolTip": "DataDashboardApp\\Db\\DbConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:03:50.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\\Documents\\GitHub\\Data-Dashboard-CSharp-SQL-WinForms\\DataDashboardApp\\Form1.cs",
+              "RelativeDocumentMoniker": "DataDashboardApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive - Universidad Autonoma de Ciudad Juarez (UACJ)\\Documents\\GitHub\\Data-Dashboard-CSharp-SQL-WinForms\\DataDashboardApp\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DataDashboardApp\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T03:39:06.8Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
